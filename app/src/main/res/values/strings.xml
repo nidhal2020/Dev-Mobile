@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="error_login_msg">login error</string>
+    <string name="success_login_msg">login done !!</string>
+</resources>
